@@ -12,8 +12,9 @@ Database as Firebase Real Time database with user authentication,
 and attarctive user UI so anyone can easily use it.
 # Here a Demo of Todo List
 
-![GitHub Logo](/Screenshot_20200515_162450_com.example.todo.jpg)
-![GitHub Logo](/Screenshot_20200515_162454_com.example.todo.jpg)
-![GitHub Logo](/Screenshot_20200515_162500_com.example.todo.jpg)
-
+<p align="center">
+<img width="200" src=/Screenshot_20200515_162450_com.example.todo.jpg/>
+<img width="200" src=/Screenshot_20200515_162454_com.example.todo.jpg/>
+<img width="200" src=/Screenshot_20200515_162500_com.example.todo.jpg/>
+</p>
 
